@@ -67,7 +67,9 @@ p {
   opacity: 0.8;
 }
 .section {
-  margin: 120px 0;
+  max-width: 1110px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .section h2 {
